@@ -14,5 +14,22 @@
             "runResetFunction": true
         },
         "disabled": false
+    },
+    "oauth2-facebook": {
+        "name": "oauth2-facebook",
+        "type": "oauth2-facebook",
+        "config": {
+            "clientId": "uid:1"
+        },
+        "secret_config": {
+            "clientSecret": "letsbowl"
+        },
+        "disabled": false,
+        "metadata_fields": [
+            {
+                "required": false,
+                "name": "email"
+            }
+        ]
     }
 }
