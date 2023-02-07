@@ -1,7 +1,7 @@
 [
     {
-        "name": "auth",
+        "name": "resetFunc",
         "private": false,
-        "disable_arg_logs": true
+        "can_evaluate": {}
     }
 ]
