@@ -1,0 +1,10 @@
+{
+    "name": "letsbowl",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "letsbowl",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
