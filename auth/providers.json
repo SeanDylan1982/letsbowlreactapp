@@ -31,5 +31,17 @@
                 "name": "email"
             }
         ]
+    },
+    "oauth2-google": {
+        "name": "oauth2-google",
+        "type": "oauth2-google",
+        "config": {
+            "clientId": "uid:1",
+            "openId": true
+        },
+        "secret_config": {
+            "clientSecret": "letsbowl"
+        },
+        "disabled": false
     }
 }
